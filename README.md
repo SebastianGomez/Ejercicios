@@ -1,2 +1,2 @@
 # Ejercicios
-#Ejercicios resueltos de programacion realizados en distintos lenguajes de programacion
+Ejercicios resueltos de programacion realizados en distintos lenguajes de programacion
